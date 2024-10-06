@@ -1,0 +1,13 @@
+CREATING AN CLOUD ACCOUNT IN AZURE 
+
+Steps followed :
+
+1. Go to the AWS website.
+2. Start free account.
+3. Then sign in to the AWS account using your mail id.
+4. A sign up page will come up where we need to fill our details.
+5. Fill the details , verify your number . Then move to next step.
+6. In the next step , we need to give the details of our debit card.
+7. Give the details and press okay.
+8. After completing all the steps , a 2 rupee will be debited from our account . 
+Thus the account has been created.
